@@ -9,5 +9,7 @@ The whole process is to learn _**the data acquisition**_
 <br/>bs4 0.0.1
 <br/>Beautifulsoup4 1.12.2 
 <br/>urllib3 1.26.9
-### 3-HTML: How does html work with
-### 3-Naver-exchangerate: How do we can get the information from the web page
+***
+### (1) 3-HTML: How does html work with
+***
+### (2) 3-Naver-exchangerate: How do we can get the information from the web page
